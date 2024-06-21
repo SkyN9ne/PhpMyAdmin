@@ -32,7 +32,7 @@
     "locutus.sprintf": "^2.0.14-code-lts.2",
     "mini-css-extract-plugin": "^2.5.3",
     "ol": "6.15.1",
-    "postcss": "^8.4.14",
+    "postcss": "^8.4.31",
     "postcss-cli": "^9.1.0",
     "postcss-loader": "^6.2.1",
     "rtlcss": "^3.5.0",
@@ -43,7 +43,7 @@
     "tracekit": "0.4.6",
     "u2f-api-polyfill": "0.4.4",
     "updated-jqplot": "1.0.9",
-    "webpack": "^5.68.0",
+    "webpack": "^5.76.0",
     "webpack-cli": "^4.9.2",
     "webpack-concat-files-plugin": "^0.5.2"
   },
